@@ -45,5 +45,5 @@ achine.
 ![268162887-655744b8-4026-4822-85f0-d856fc711da6](https://github.com/BaskaranV15/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118703522/53e5f14f-d9f5-4a62-b885-584746c95fba)
 
 
-RESULT:
+# RESULT:
 Hence the OS is successfully installed and set up using virtual box.
